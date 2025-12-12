@@ -61,7 +61,7 @@ Confusion matrix
 
 Hyperparameter tuning for RandomForest
 
-Achieved 88–90% accuracy using selected features.
+Achieved 80-83% accuracy using selected features.
 
 Exported Models & Scalers Using Pickle
 Saved best models:
